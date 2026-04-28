@@ -1,5 +1,9 @@
 # McDonald's Website Clone
 
+<img src="preview.png" alt="Website Preivew">
+
+<br>
+
 A simple static website clone of the McDonald's homepage created using HTML and CSS for learning and showcasing front-end development skills.
 
 ## How I Made This
